@@ -59,6 +59,7 @@ namespace VIN_LIB
             }
 
             return "";
+
         }
         public Boolean CheckVIN(String vinNumber)
         {
@@ -81,6 +82,7 @@ namespace VIN_LIB
                 }
             }
             return false;
+
         }
     }
 }
